@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 from socket import *
+from socket import socket
 import sys
 host = '128.235.209.204'
 port = 88

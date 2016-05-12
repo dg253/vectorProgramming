@@ -23,3 +23,7 @@ for destination, values in destinations.iteritems():
         print ('Client: Connection terminated')
         print(message)
         destinations = (message)
+
+
+
+{ 'destination0': {'interface': '52.38.130.148', 'Cost': 0}, 'destination1': {'interface': 'locast', 'Cost': 2}, 'destination2': {'interface': '128.235.211.21', 'Cost': 4},'destination3': {'interface': '128.235.209.204', 'Cost': 6}}
