@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 from socket import *
 import socket
+from socket import socket
+
 import sys
 
 host = '10.80.0.12'
